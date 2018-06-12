@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478641914 source:c:\users\pc\desktop\apps\bulls&cows\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
